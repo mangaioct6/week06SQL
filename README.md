@@ -7,5 +7,4 @@ WHAT IS SQL?
 SQL or Structured Query Language is the standard language for dealing with Relational Databases. It’s used to perform data interacting tasks such as creating a table and inserting data into it, querying and filtering data, modifying and updating data ,delete data or table. SQL is the language used for communicating with data in an RDBMS.
 
 
-![](week06SQL/Screenshot_intro_to_sql.png)
-
+![](Screenshot_intro_to_sql.png)
